@@ -29,7 +29,7 @@ of the Z axis is ½ step instead of a full step, to allow more
 precision when adjusting the spindle height.
 
 ### Q Code
-Moreover, the drawing feature (triggered by the DRAW button) consists of an algorithm (**Q code**) in
+Moreover, the drawing feature (triggered by the DRAW button) consists of an algorithm (Q code) in
 Python that reads a matrix of strictly “1”s and “0”s from a text file (where “1” represents a point on
 a drawing and “0” represents empty space). It then returns efficient commands to the Pico by
 calculating the difference between its old and new position in the matrix. Q code works by first
