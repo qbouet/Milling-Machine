@@ -1,4 +1,7 @@
 # Milling Machine
+*John Edmer Ortiz*, 
+*Thomas Mehes*, 
+*Quentin Bouet*
 
 ## Overview
 A control system for a computer numerical controlled (CNC) mill was designed and constructed.
